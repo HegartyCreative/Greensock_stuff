@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.circle, .circle1 {
+    background-color: pink;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.square, .square1 {
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+}
+
+#rectangle, #rectangle1{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    }
+
+.first{
+    margin: 100px;
+    border: 1px solid black;
+
+}
+
+.blue {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+}

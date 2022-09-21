@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+.main{
+    width: 600px;
+    margin: 10px auto;
+    border: 1px solid black;
+    height: 200px;
+}
+
+.box{
+    width: 25px;
+    height: 25px;
+    display: inline-table;
+}
+
+.box1{
+    background-color: yellow;
+}
+.box2{
+    background-color: red;
+}
+
+.box3{
+    background-color: orange;
+}
+
+.box4{
+    background-color: pink;
+}
+
+.box5{
+    background-color: blue;
+}
+
+.box6{
+    background-color: green;
+}
+
+.box7{
+    background-color: yellow;
+}
+.box8{
+    background-color: red;
+}
+
+.box9{
+    background-color: orange;
+}
+
+.box10{
+    background-color: pink;
+}
+
+.box11{
+    background-color: blue;
+}
+
+.box12{
+    background-color: green;}
+
+.box13 {
+        background-color: yellow;
+    }
+.box14{
+        background-color: red;
+    }
+    
+.box15{
+        background-color: orange;
+    }
+    
+.box16{
+        background-color: pink;
+    }
+    
+.box17{
+        background-color: blue;
+    }
+    
+.box18{
+        background-color: green;}
+
+.box19{
+            background-color: pink;
+        }
+
+.box20{
+            background-color: blue;}
+        }
+box1{
+    background-color: yellow;
+}
+.box2{
+    background-color: red;
+}
+
+.box3{
+    background-color: orange;
+}
+
+.box4{
+    background-color: pink;
+}
+
+.box5{
+    background-color: blue;
+}
+
+.box6{
+    background-color: green;
+}
+
+.box7{
+    background-color: yellow;
+}
+.box8{
+    background-color: red;
+}
+
+.box9{
+    background-color: orange;
+}
+
+.box10{
+    background-color: pink;
+}
+
+.box11{
+    background-color: blue;
+}
+
+.box12{
+    background-color: green;}
+
+.box13 {
+        background-color: yellow;
+    }
+.box14{
+        background-color: red;
+    }
+    
+.box15{
+        background-color: orange;
+    }
+    
+.box16{
+        background-color: pink;
+    }
+    
+.box17{
+        background-color: blue;
+    }
+    
+.box18{
+        background-color: green;}
+
+.box19{
+            background-color: pink;
+        }
+
+.box20{
+            background-color: blue;
+        }
+    
+
+
+
+

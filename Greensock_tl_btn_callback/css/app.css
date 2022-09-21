@@ -1,0 +1,36 @@
+.main{
+    width: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+    height: 500px;
+    position: relative:
+}
+
+.main2{
+    width: 400px;
+    margin: 20px auto;
+}
+
+.ball{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    text-align: center;
+    line-height: 65px;
+}
+
+.ball p{
+    text-align: center;
+    color: white;
+    left: 0;
+    top: 0;
+}
+
+.btnRow{
+    padding: 10px;
+    display: block;
+};
+
+

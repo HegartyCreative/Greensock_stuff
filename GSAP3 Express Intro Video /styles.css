@@ -1,0 +1,32 @@
+.space{
+    background-color: black;
+    height: 100vh;
+}
+
+h1{
+    color: yellow;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 90px;
+}
+
+.stars{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.stars img{
+    width: 200px;
+}
+
+.time{
+    background-color: black;
+    height: 100px;
+}
+
+.time img{
+    width: 300px;
+    position: absolute;
+    right: 0px;
+    top: 30px;
+}

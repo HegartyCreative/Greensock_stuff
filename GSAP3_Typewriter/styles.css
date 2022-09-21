@@ -1,0 +1,40 @@
+@import url('href="https://fonts.googleapis.com/css2?family=Lato&display=swap"');
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    background: black;
+    color: #ffffff;
+}
+
+h1{
+    position: relative;
+    font-family: Lato, sans-serif;
+    font-size: 6vh;
+    font-weight: bold;
+    padding-left: 15vh;
+    overflow: hidden;
+}
+
+
+
+h1 .box{
+    position: absolute;
+    bottom: 0;
+    display: inline-block;
+    background-color: pink;
+    height: 1vh;
+    z-index: -1;
+}
+
+h1 .high{
+    display: inline-block;
+}
